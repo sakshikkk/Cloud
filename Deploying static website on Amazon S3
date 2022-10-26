@@ -1,0 +1,3 @@
+step 1 : Collect all files required for a static website
+step 2 : Go to the AWS management console and select the S3 service
+step 3 : Create a bucket with unique name 
